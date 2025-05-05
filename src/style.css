@@ -1,5 +1,25 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-color: rgb(128, 120, 36);
+}
+.cuadro {
+    text-align: center;
+    color: rgb(54, 92, 196);
+    font-size: 50px;
+    padding: 130px;
+    background-color: rgb(226, 213, 136);
+    border: 10px solid;
+    border-color: gold;
+}
+.toptexto {
+    font-size: 40px;
+    margin-top: 200px;
+    color: white;
+
+}
+.downtexto {
+    font-size: 40px;
+    text-align:right ;
+color: white;
 }
